@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "type": "double",
+    "price": 35000,
+    "available": true
+  },
+  {
+    "id": 102,
+    "type": "single",
+    "price": 25000,
+    "available": true
+  },
+  {
+    "id": 103,
+    "type": "suite",
+    "price": 65000,
+    "available": false
+  },
+  {
+    "id": 104,
+    "type": "double",
+    "price": 38000,
+    "available": false
+  },
+  {
+    "id": 105,
+    "type": "family",
+    "price": 55000,
+    "available": true
+  }
+]
